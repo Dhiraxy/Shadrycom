@@ -1,2 +1,6 @@
 # Shadrycom
-Fullstack Web Developer
+=> Fullstack Web Developer
+=> Back End Developer
+
+
+
